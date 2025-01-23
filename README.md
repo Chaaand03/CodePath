@@ -51,6 +51,8 @@ The following **required** functionality is completed:
 - Having unique bar code for each song.
 - Video preview for some songs and podcasts.
 
+### New App idea
+
 An app idea I would like to build is a smart cooking assistant called "MoodCook". The app allows users to scan or input the available ingredients in their kitchen, generating a list of recipes they can cook immediately. It goes a step further by suggesting new and exotic recipes tailored to the user’s preferences and dietary restrictions. To make the experience more personalized, MoodCook integrates with Spotify to analyze the user’s current playlist and predict their mood. Based on this mood data, the app adjusts recipe suggestions to fit the user's emotional state—for instance, comfort food for a relaxing playlist or energizing dishes for an upbeat one. Over time, the app learns the user’s tastes and preferences, creating a highly customized and delightful cooking experience.
 
 ## Notes 
