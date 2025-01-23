@@ -4,7 +4,7 @@ Submitted by: **Chandana Mallu**
 
 **Chand_Proj1** is an app that Changes the backgound color on the click of a button.
 
-Time spent: less than **1** hours spent in total
+Time spent: Less than **1** hours spent in total
 
 ## Required Features
 
@@ -61,7 +61,7 @@ Was a little confused with adding the IBAction function in the viewController an
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Chandana Mallu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
