@@ -26,25 +26,25 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-### SnapChat
+#### SnapChat
 - Notifys you when you take a screenshot of the story.
 - Chats disappearing after seen.
 - Privary of texts.
 - Variety of filters available to click selfies.
 
-### Instagram
+#### Instagram
 - Option to set your account to private or public.
 - Ability to report and block.
 - Story disappearing after a day.
 - Hide story from selected people.
 
-### Google Maps
+#### Google Maps
 - Very clear routes laid out which are eaisily understandable.
 - Various modes of transport is shown to reach the destination.
 - Differnet view of the terrain can be selected.
 - Turns to dark mode automatically when the sun sets or when in a tunnel.
 
-### Spotify
+#### Spotify
 - Very accurate algorithm to suggest the next song.
 - The song playing UI is user friendly.
 - Option to show the song lyrics.
